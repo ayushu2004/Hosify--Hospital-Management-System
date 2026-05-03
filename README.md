@@ -40,7 +40,7 @@ This system digitizes hospital workflows by:
 - **Backend:** Java, Spring Boot, REST APIs, JWT, RBAC
 - **Frpntend:** React.js
 - **Database:** MySQL  
-- **Connectivity:** JDBC  
+- **Connectivity:** REST APIs
 - **API Testing:** Postman  
 
 ---
