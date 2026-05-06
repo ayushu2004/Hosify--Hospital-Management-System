@@ -55,7 +55,8 @@ This system digitizes hospital workflows by:
 
 ## 📸 Screenshots
 
-_Add screenshots here
+![image alt](https://github.com/ayushu2004/MediPredict-Smart-Healthcare-Management-System/blob/ab0d2f5cc5ca3fb2f6122efabbdce35e702bc784/MEDI%201.png)
+
 
 
 
