@@ -57,6 +57,8 @@ This system digitizes hospital workflows by:
 
 ![image alt](https://github.com/ayushu2004/MediPredict-Smart-Healthcare-Management-System/blob/ab0d2f5cc5ca3fb2f6122efabbdce35e702bc784/MEDI%201.png)
 ![image alt](https://github.com/ayushu2004/MediPredict-Smart-Healthcare-Management-System/blob/d37440ba4827a0b2752b94331f92b22b8ad8ca19/MEDI%202.png)
+![image alt](https://github.com/ayushu2004/MediPredict-Smart-Healthcare-Management-System/blob/9c90f553d037d03f537830c92932dd47f9a8e75c/MEDI%204.png)
+![image alt](https://github.com/ayushu2004/MediPredict-Smart-Healthcare-Management-System/blob/9c90f553d037d03f537830c92932dd47f9a8e75c/MEDI%204.png)
 
 
 
